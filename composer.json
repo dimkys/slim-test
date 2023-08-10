@@ -27,7 +27,7 @@
         "ext-pdo": "*",
         "monolog/monolog": "^2.9",
         "odan/twig-assets": "^3.3",
-        "php-di/php-di": "^6.4",
+        "php-di/php-di": "^7.0",
         "slim/psr7": "^1.6",
         "slim/slim": "^4.11",
         "slim/twig-view": "^3.3",
