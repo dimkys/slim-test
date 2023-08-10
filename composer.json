@@ -29,7 +29,7 @@
         "odan/twig-assets": "^3.3",
         "php-di/php-di": "^6.4",
         "slim/psr7": "^1.6",
-        "slim/slim": "^4.11",
+        "slim/slim": "^4.12",
         "slim/twig-view": "^3.3",
         "symfony/asset": "^6.3",
       "ext-fileinfo": "*"
